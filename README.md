@@ -1,0 +1,2 @@
+# Quizzer
+Quizzer est une application qui gère l’évaluation des personnes. La particularité de ce système est qu’il permet aux étudiants de s’évaluer sur un smartphone. Un professeur a la possibilité de définir un exercice d’entraînement ou une évaluation sur la plateforme et aussi tôt la notification arrive aux étudiants concernés. L’étudiant qui souhaite s’évaluer à alors un temps imparti  pour finir l’examen et les notes sont disponibles directement après.
